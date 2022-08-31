@@ -1,0 +1,13 @@
+.shop{
+    display:flex;  /*写真と詳細を横並びに*/
+    position:relative; /*allの左端から*/
+    left:0;   /*左端*/
+    margin-bottom:50px;
+}
+.all{
+    position:absolute;
+
+}
+.in{
+    margin-left:30px; /*写真と詳細の間30px*/
+}

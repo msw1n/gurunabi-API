@@ -1,0 +1,126 @@
+body{
+    margin-left: 0;
+}
+
+.res{
+    background-size: cover;
+    background-image:url("back.jpg") ;
+}
+
+.search{
+    background-size: 100% 100%;
+    background-image:url("back2.jpg") ;
+}
+
+.reg{
+    background-size: cover;
+    background-image:url("back3.jpg") ;
+}
+
+
+form{
+    position:absolute;
+    width:50%;
+    margin:0 auto;
+    background-color:rgba(255,255,255,0.8);
+    margin-left:25%;
+
+}
+
+p{
+    position:relative;
+    margin-top:40px;
+    margin-bottom:40px;
+    margin-left:30%;
+    font-size:20px;
+    font-family: 'Yu Mincho',"游明朝";
+    font-weight: bold;
+}
+
+a{
+    font-size:25px;
+}
+
+div {
+    width:50%;
+    margin : 0  auto;
+    margin-top:200px;
+}
+
+input{
+    height:5%;
+    width:30%;
+}
+
+textarea{
+    height:60px;
+    width:30%;
+}
+
+table{
+    margin:auto;
+    width:60%;
+}
+
+table th{
+    padding-top:20px;
+    padding-bottom:20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+table td{
+    padding-top:20px;
+    padding-bottom:20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+h2{
+    padding-top:30px;
+    text-align: center;
+    font-size: 40px;
+    margin-top:300px;
+}
+
+
+h1{
+    color:black;
+    text-align: center;
+}
+
+
+.show{
+    margin-top:0;
+}
+
+.accept{  /*登録完了のbody*/
+    background-size: cover;
+    background-image:url("reg.jpg") ;
+}
+
+.a{  /*登録完了とHomeへ戻るをまとめた*/
+    background-color:rgba(255,255,255,0.8);
+}
+
+.show_result{
+    background-size:cover;
+    background-image:url("show.jpg") ;
+}
+
+
+.b{
+    margin-top:0;
+    background-color:rgba(255,255,255,0.8);
+    padding-top:30px;
+    padding-bottom:30px;
+
+}
+
+.radios input{
+    width:5%;
+    height:1%;
+}

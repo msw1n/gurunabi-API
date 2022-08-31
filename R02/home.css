@@ -1,0 +1,44 @@
+body{
+    background-image:url("background.jpg") ;
+    margin-top: 0;
+    margin-left: 0;
+
+}
+
+ul{
+    background-color: rgba(255, 255, 255, 0.9);
+    display:flex;
+    justify-content: center;
+    list-style: none;
+    height:80px;
+}
+
+ul li{
+    font-size:30px;
+    margin-left:25px;
+    margin-right:25px;
+    padding-top:20px;
+    font-family: 'Yu Mincho',游明朝;
+}
+
+h1{
+    font-size:60px;
+    color:rgba(19, 49, 102, 0.9);
+    text-align:center;
+    background-color:rgba(255,255,255,0.4);
+    width:650px;
+    margin:auto;
+    margin-top:250px;
+    font-family: 'Yu Mincho',"游明朝";
+}
+
+p{
+    font-size:25px;
+    color:rgba(19, 49, 102, 0.9);
+    text-align:center;
+    background-color:rgba(255,255,255,0.4);
+    width:850px;
+    margin:auto;
+    margin-top:20px;
+    font-family: 'Yu Mincho',"游明朝";
+}
